@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "img": "https://avatars.githubusercontent.com/u/104919738?v=4",
+    "nome": "Nome",
+    "sobrenome": "Sobrenome",
+    "cidade": "CIDADE",
+    "estado": "ESTADO",
+    "contato": "(34) 99999-9999",
+    "email": "email@gmail.com",
+    "biografia": "BIOGRAFIA....",
+    "usuarioGithub": "gutenrodri",
+    "redesSociais": {
+      "linkedin": "https://www.linkedin.com/in/gutenberg-rodrigo-ferreira-cruz",
+      "github": "https://github.com/Gutenrodri"
+    },
+    "habilidades": [
+      {
+        "id": 1,
+        "habilidade": "Beber agua"
+      },
+      {
+        "id": 2,
+        "habilidade": "Varias coisas"
+      },
+      {
+        "id": 3,
+        "habilidade": "bla bla bla"
+      }
+    ],
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "cargo",
+        "empresa": "empresa",
+        "periodo": "dez 2020 - Maio 2021",
+        "atividades": "descrição das atividades"
+      },
+      {
+        "id": 2,
+        "cargo": "cargo",
+        "empresa": "empresa",
+        "periodo": "dez 2020 - Maio 2021",
+        "atividades": "descrição das atividades"
+      },
+      {
+        "id": 3,
+        "cargo": "cargo",
+        "empresa": "empresa",
+        "periodo": "dez 2020 - Maio 2021",
+        "atividades": "descrição das atividades"
+      }
+    ]
+  }
+}
