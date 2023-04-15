@@ -2,12 +2,12 @@
   "profile": {
     "img": "https://avatars.githubusercontent.com/u/104919738?v=4",
     "nome": "Gutenberg",
-    "sobrenome": "Sobrenome",
-    "cidade": "CIDADE",
-    "estado": "ESTADO",
-    "contato": "(34) 99999-9999",
-    "email": "email@gmail.com",
-    "biografia": "BIOGRAFIA....",
+    "sobrenome": "Rodrigo Ferreira Cruz",
+    "cidade": "Guanhães",
+    "estado": "MG",
+    "contato": "(33) 98834-7754",
+    "email": "gutenbergrodrigo@gmail.com",
+    "biografia": "Trabalhando com informática desde 2014. Instalações de impressoras em rede ou locais, manutenção de sistema operacional e hardwares em microcomputadores e notebooks, prestando também serviços de estruturação de rede. Sou professor e atualmente curso Análise e desenvolvimento de sistemas.",
     "usuarioGithub": "gutenrodri",
     "redesSociais": {
       "linkedin": "https://www.linkedin.com/in/gutenberg-rodrigo-ferreira-cruz",
@@ -16,38 +16,35 @@
     "habilidades": [
       {
         "id": 1,
-        "habilidade": "Beber agua"
+        "habilidade": "HTML"
       },
       {
         "id": 2,
-        "habilidade": "Varias coisas"
+        "habilidade": "CSS"
       },
       {
         "id": 3,
-        "habilidade": "bla bla bla"
+        "habilidade": "JAVASCRIPT"
+      },
+      {
+        "id": 4,
+        "habilidade": "REACT"
       }
     ],
     "experiencia": [
       {
         "id": 1,
-        "cargo": "cargo",
-        "empresa": "empresa",
-        "periodo": "dez 2020 - Maio 2021",
-        "atividades": "descrição das atividades"
+        "cargo": "Técnico em Informática",
+        "empresa": "Freelance",
+        "periodo": "jan 2014 - Ago 2016",
+        "atividades": " Manutenção de Software e hardware em microcomputadores e notebooks"
       },
       {
         "id": 2,
-        "cargo": "cargo",
-        "empresa": "empresa",
-        "periodo": "dez 2020 - Maio 2021",
-        "atividades": "descrição das atividades"
-      },
-      {
-        "id": 3,
-        "cargo": "cargo",
-        "empresa": "empresa",
-        "periodo": "dez 2020 - Maio 2021",
-        "atividades": "descrição das atividades"
+        "cargo": "Técnico em Informática",
+        "empresa": "Assistec Teleinformatica",
+        "periodo": "set 2016 - até o momento",
+        "atividades": "Manutenção de Software e hardware em microcomputadores e notebooks./ Instalação e configuração de servidores Windows server./estruturação e organização de redes internas./Instalação e configuração de impressoras e leitores em rede./Configurações de sites específicos./Conectividade Social, ECAC, PJE, TJMG, etc./Instalação e configuração de certificados digitais A1 e A3."
       }
     ]
   }

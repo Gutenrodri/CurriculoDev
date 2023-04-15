@@ -35,7 +35,7 @@ const Section = ({ profile }) => {
         <p>{profile.biografia}</p>
         <div id="contacts">
           <Title texto="Contatos" />
-          <SubTitle texto="Em desenvolvimento ACQA" />
+          <SubTitle texto="Luiz - Fácil Sistemas" />
         </div>
       </Sections>
       <Sections id="experience">
